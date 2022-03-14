@@ -48,3 +48,9 @@ Solo necesitas informar el puntaje del juego actual. Los conjuntos y las coincid
 - ¿Qué le dirías a tu colega si hubiera escrito este código?
 
 - ¿Qué le dirías a tu jefe sobre el valor de este trabajo de refactorización? ¿Hubo más razones para hacerlo más allá de la hora extra facturable?
+
+* Respuestas a las preguntas
+- Trabajar con las pruebas rápidas fue muy bueno porque permitía saber donde se estaba presentando el problema, con la diferencia en la salida.
+- Si, cometi algunos errres donde el resultado no era el esperado.
+- Si he cometido errores de factorización en los que luego debo retirar los cambios. Uno se siente un poco frustado por el tiempo invertido escribiendo el código, el cuál luego tuvo que ser eliminado, pero todo esto permite conocer y analizar muy bien lo que se esta codificando y luego poder hacer una refactorizacion correcta.
+- Le diria al colega que intente inccorporar unas mejores practicas de codificacion para evitar el codigo redundante y que sea mas facil su comprensión. 
